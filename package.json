@@ -1,6 +1,6 @@
 {
-  "name": "tjg.web.crawler",
-  "description": "tjg web crawler",
+  "name": "web.crawler",
+  "description": "web crawler",
   "version": "0.0.1",
   "author": "Radu Florescu",
   "private": true,
