@@ -1,0 +1,16 @@
+{
+  "name": "tjg.web.crawler",
+  "description": "tjg web crawler",
+  "version": "0.0.1",
+  "author": "Radu Florescu",
+  "private": true,
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "crawler": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
